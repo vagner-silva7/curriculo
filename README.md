@@ -1,2 +1,2 @@
 # curriculo
- Projeto realizado em aula (SBD)
+ Projeto realizado em aula (SBD).
